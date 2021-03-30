@@ -1,0 +1,22 @@
+{
+  "name": "webbot",
+  "version": "0.0.1",
+  "description": "Discord Community Chat & Mod Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevYT/WebBot.git"
+  },
+  "author": "Web#5110 on Discord (aka WebDevYT on GitHub)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevYT/WebBot/issues"
+  },
+  "homepage": "https://github.com/WebDevYT/WebBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
